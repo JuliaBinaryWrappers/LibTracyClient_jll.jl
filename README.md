@@ -1,4 +1,4 @@
-# `LibTracyClient_jll.jl` (v0.9.1+0)
+# `LibTracyClient_jll.jl` (v0.9.1+1)
 
 [![deps](https://juliahub.com/docs/LibTracyClient_jll/deps.svg)](https://juliahub.com/ui/Packages/LibTracyClient_jll/mti1A?page=2)
 
