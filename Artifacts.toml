@@ -5,7 +5,7 @@ os = "macos"
 
     [[LibTracyClient.download]]
     sha256 = "5ed66b6dc83ddcb186e753ae3961780baa9bcfc0954a080ccc35e184f9264a8e"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.aarch64-apple-darwin.tar.gz"
 [[LibTracyClient]]
 arch = "aarch64"
 git-tree-sha1 = "e976c3f9f44ac60688155a2793511bb475645dc6"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[LibTracyClient.download]]
     sha256 = "a424788a12b3b2411894f66e04641367da35be0653897397619c6ecbf8de6155"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.aarch64-linux-gnu.tar.gz"
 [[LibTracyClient]]
 arch = "aarch64"
 git-tree-sha1 = "2f7b3a2b0c46057a7d7719525ddaef19b45a2f2b"
@@ -23,7 +23,7 @@ os = "linux"
 
     [[LibTracyClient.download]]
     sha256 = "fb58cffb014555c6e12463aa243ab30451ecf8c5cdd3b1f1f22b2f8f8fb052cc"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.aarch64-linux-musl.tar.gz"
 [[LibTracyClient]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -33,7 +33,7 @@ os = "linux"
 
     [[LibTracyClient.download]]
     sha256 = "f2e32b395ccff603eb235ebde8b84d6093f46efb90e86608a9232a014c9298b1"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.armv6l-linux-gnueabihf.tar.gz"
 [[LibTracyClient]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -43,7 +43,7 @@ os = "linux"
 
     [[LibTracyClient.download]]
     sha256 = "249c6fa8379772fbe515d31416bcbe7b602d33bb00972d8d092504cf317a9e59"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.armv6l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.armv6l-linux-musleabihf.tar.gz"
 [[LibTracyClient]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -53,7 +53,7 @@ os = "linux"
 
     [[LibTracyClient.download]]
     sha256 = "228e4af4f40e067a440502f87ca7e2226b76e5f6f9b5fd8d3d095240112d506b"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.armv7l-linux-gnueabihf.tar.gz"
 [[LibTracyClient]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -63,7 +63,7 @@ os = "linux"
 
     [[LibTracyClient.download]]
     sha256 = "ee103a08ce93468b45e4f9326884b9d671979e88f69f8361fefcdbc5f1b0e5c1"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.armv7l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.armv7l-linux-musleabihf.tar.gz"
 [[LibTracyClient]]
 arch = "i686"
 git-tree-sha1 = "0b2ab64b4f82d58f2fcf549f6ecccbaf1fd12961"
@@ -72,7 +72,7 @@ os = "linux"
 
     [[LibTracyClient.download]]
     sha256 = "2dd0e81ded8f8d71949949ae54824b483c0f4fbb626e6c644fc4114e2477b6c9"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.i686-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.i686-linux-gnu.tar.gz"
 [[LibTracyClient]]
 arch = "i686"
 git-tree-sha1 = "aacccc927b78760b5ef9232dee66f053dfc3844d"
@@ -81,7 +81,7 @@ os = "linux"
 
     [[LibTracyClient.download]]
     sha256 = "a11e90fce8a87308c3bc3661ca07f0f5b9f78f303b1d031a5dc903c8fcb27df1"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.i686-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.i686-linux-musl.tar.gz"
 [[LibTracyClient]]
 arch = "i686"
 git-tree-sha1 = "aa2ed03e88aa075bcaa01a90955c3beaabe4a0f9"
@@ -89,7 +89,7 @@ os = "windows"
 
     [[LibTracyClient.download]]
     sha256 = "696233b4c7e8aff4a57f1cca40d114f265da45c46b5ec3d5e3704136ce653e9b"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.i686-w64-mingw32.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.i686-w64-mingw32.tar.gz"
 [[LibTracyClient]]
 arch = "powerpc64le"
 git-tree-sha1 = "bb77202ee55e1da2b951565b76663577766dd1a6"
@@ -98,7 +98,7 @@ os = "linux"
 
     [[LibTracyClient.download]]
     sha256 = "cdeb799d071196f79a8391b22ef46e602d9ef3665ef267d9a1b34f28209cb90c"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.powerpc64le-linux-gnu.tar.gz"
 [[LibTracyClient]]
 arch = "x86_64"
 git-tree-sha1 = "d67f2bdc06cf897f67dfa47bab1dee1740780697"
@@ -106,7 +106,7 @@ os = "macos"
 
     [[LibTracyClient.download]]
     sha256 = "f4bfabd2354f404a1bed9607fc37c75b834b6ae6bd54ae46150568089fe8f231"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.x86_64-apple-darwin.tar.gz"
 [[LibTracyClient]]
 arch = "x86_64"
 git-tree-sha1 = "479490205d4946c1957f89ae999083163ff32116"
@@ -115,7 +115,7 @@ os = "linux"
 
     [[LibTracyClient.download]]
     sha256 = "6e66455cfacbf5246d7888d9ce2fa4b283457d6298432f485902a1d5827252ad"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.x86_64-linux-gnu.tar.gz"
 [[LibTracyClient]]
 arch = "x86_64"
 git-tree-sha1 = "21f44d5ff0c796f5b01e3db3da23d67f05310996"
@@ -124,15 +124,15 @@ os = "linux"
 
     [[LibTracyClient.download]]
     sha256 = "82eded7fac482518adcaa453875b2390a0c333b36f49d748a9e11266b560c6ca"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.x86_64-linux-musl.tar.gz"
 [[LibTracyClient]]
 arch = "x86_64"
-git-tree-sha1 = "dfcf0b87d9434a7cc2ae1b80552c09cb8bcfbacc"
+git-tree-sha1 = "ef465f7d209bff9f3623ca913376099a66206062"
 os = "freebsd"
 
     [[LibTracyClient.download]]
-    sha256 = "a72023b63341c00bc74d3b023b72401709e4b077aa007e0aab6ae8c736644bbc"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "ace805a3ac16b0dabc02f99e934276874dde6d1861f175ab51bec163f502a1fd"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.x86_64-unknown-freebsd.tar.gz"
 [[LibTracyClient]]
 arch = "x86_64"
 git-tree-sha1 = "5ed21276aa9198669bcf0249ed72e43d6efdd9a0"
@@ -140,4 +140,4 @@ os = "windows"
 
     [[LibTracyClient.download]]
     sha256 = "6c8d9f9a5c853ae929fb6a0a8b54cd5b4f146c512232b671ce54e7377a02ee8a"
-    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+2/LibTracyClient.v0.9.1.x86_64-w64-mingw32.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LibTracyClient_jll.jl/releases/download/LibTracyClient-v0.9.1+3/LibTracyClient.v0.9.1.x86_64-w64-mingw32.tar.gz"
