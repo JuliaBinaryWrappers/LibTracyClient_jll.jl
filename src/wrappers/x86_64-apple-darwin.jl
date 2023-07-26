@@ -9,7 +9,7 @@ function __init__()
     JLLWrappers.@init_library_product(
         libTracyClient,
         "lib/libTracyClient.dylib",
-        RTLD_DEEPBIND,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_file_product(
