@@ -2,7 +2,7 @@
 export libTracyClient, libTracyClient_static
 
 JLLWrappers.@generate_wrapper_header("LibTracyClient")
-JLLWrappers.@declare_library_product(libTracyClient, "libTracyClient.so")
+JLLWrappers.@declare_library_product(libTracyClient, "libTracyClient.so.0.13.1")
 JLLWrappers.@declare_file_product(libTracyClient_static)
 function __init__()
     JLLWrappers.@generate_init_header()

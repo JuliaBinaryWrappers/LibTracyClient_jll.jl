@@ -2,13 +2,13 @@
 export libTracyClient, libTracyClient_static
 
 JLLWrappers.@generate_wrapper_header("LibTracyClient")
-JLLWrappers.@declare_library_product(libTracyClient, "@rpath/libTracyClient.dylib")
+JLLWrappers.@declare_library_product(libTracyClient, "@rpath/libTracyClient.0.13.1.dylib")
 JLLWrappers.@declare_file_product(libTracyClient_static)
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libTracyClient,
-        "lib/libTracyClient.dylib",
+        "lib/libTracyClient.0.13.1.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
